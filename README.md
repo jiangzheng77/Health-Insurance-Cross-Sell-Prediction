@@ -12,7 +12,7 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance
 
 通过已投健康保险的客户的个人以及车辆信息，来预测该客户是否对公司提供的汽车保险感兴趣。
 
-#### 数据情况：
+### 数据情况：
 
 ![image-20221129232332760](./assets/data_description.png)
 
@@ -20,7 +20,7 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance
 
 测试集：76221条
 
-#### 评价指标
+### 评价指标
 
 AUC，ROC曲线下的面积
 
